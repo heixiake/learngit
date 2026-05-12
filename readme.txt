@@ -1,5 +1,5 @@
 Git is a distributed  version control system.
-Git is a free software distributed under the GPL.
+Git is a free software distributed under the GPL master editor.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
@@ -8,3 +8,4 @@ Git is free software.
 Stashed changes
 hello world
 test commit message
+this is master
