@@ -5,7 +5,7 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 add merge
 Git is free software.
-Stashed changes
 hello world
 test commit message
 this is master
+this is car
